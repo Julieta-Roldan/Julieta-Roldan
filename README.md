@@ -32,4 +32,4 @@ Estoy organizando y puliendo los proyectos de la tecnicatura para que estén dis
 
 * **LinkedIn:** www.linkedin.com/in/julietaroldan
 
-* **Email:** julietaroldan.800gmail.com
+* **Email:** julietaroldan.800@gmail.com
