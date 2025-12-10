@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Julieta Roldán! 👋
 
-<!--
-**Julieta-Roldan/Julieta-Roldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Tecnicatura Universitaria en Programación (UTN) |  Buscando mi primera oportunidad corporativa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre Mí
+
+* **🎓 Formación Sólida:** Próxima Técnica en Programación con conocimientos en desarrollo Full Stack (Frontend y Backend), bases de datos y principios de automatización.
+* **🎯 Enfoque en Gestión:** Mi meta es aplicar mis conocimientos tecnológicos para optimizar procesos en roles de Administración y Soporte de Operaciones.
+* **⭐ Habilidades Transferibles:** Poseo una base sólida en comunicación efectiva, resolución de problemas y responsabilidad, adquiridas en roles de atención al cliente.
+* **🌱 Crecimiento Continuo:** Siempre dispuesta a aprender nuevas tecnologías y asumir desafíos.
+
+---
+
+### Tecnologías
+
+| Lenguajes de Programación | Bases de Datos | Frontend / Web | Control de Versiones |
+| :--- | :--- | :--- | :--- |
+| **Python** | **SQL** | HTML5 | GIT / GITHUB |
+| **JavaScript (JS)** | **MongoDB** | CSS3 | Uso de Visual Studio Code |
+
+---
+
+### 📂 Proyectos 
+
+Estoy organizando y puliendo los proyectos de la tecnicatura para que estén disponibles pronto.
+
+---
+
+### 📬 Contacto
+
+* **LinkedIn:** www.linkedin.com/in/julietaroldan
+
+* **Email:** julietaroldan.800gmail.com
